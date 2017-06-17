@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+*, :before, :after {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  box-sizing: border-box;
+}
+
+input, select, button, textarea {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -moz-appearance: none;
+  font: inherit;
+  color: inherit;
+}

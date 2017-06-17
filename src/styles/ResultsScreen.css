@@ -1,0 +1,28 @@
+.ResultsScreen-Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color:white;
+  width: 100vw;
+  height: 100vh;
+}
+
+.ResultsScreen-Graph-Container {
+    width: 80vw;
+    height: 40vh;
+}
+
+.ResultsScreen-Graph-Toolbar {
+    width: 77.5vw;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.ResultScreen-Title {
+  text-align: center;
+  font-size: 5vw;
+  color:gray;
+  padding-bottom: 8vh;
+  font-weight: 100;
+}
